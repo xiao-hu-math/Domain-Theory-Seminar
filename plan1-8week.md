@@ -53,7 +53,7 @@
 ### 周5-6: 05/11, 05/18 - Dana Scott 相关论文： "Data Types as Lattices" (1976) + Scott & Strachey (1971)。   （难度三颗星🌟🌟🌟）
 - **讨论内容**：Dana Scott 相关论文： "Data Types as Lattices" (1976) + Scott & Strachey (1971)
 - **目标关联**：1.3 (为什么要求连续性 / 代数性？)
-- **主讲人**：待定
+- **主讲人**：胡晓
 - **参考资料**：Scott
 - **阅读内容**：
   - "Data Types as Lattices" (1976)：数据类型作为格。
