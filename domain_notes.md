@@ -203,7 +203,7 @@ Questions:
 | 0 | 03/30 | 课程介绍与目标梳理 | --- | 陈俣旭 | --- |
 | 1-2 | 04/13, 04/20 | Andrew Pitts, *Denotational Semantics* (讲义) 2.1, 2.3, 2.4 | 1.1 | 待定 | Pitts |
 | 3-4 | 04/27, 05/04 | Dana Scott 相关论文： "Outline of a mathematical theory of computation" (1971) + "Continuous Lattices" (1972) | 1.3 | 待定 | Scott |
-| 5-6 | 05/11, 05/18 | Dana Scott 相关论文： "Data Types as Lattices" (1976) + Scott & Strachey (1971) | 1.3 | 待定 | Scott |
+| 5-6 | 05/11, 05/18 | Dana Scott 相关论文： "Data Types as Lattices" (1976) + Scott & Strachey (1971) | 1.3 | 胡晓 | Scott |
 | 7-8 | 05/25, 06/01 | Thomas Streicher, "Domain-theoretic foundations of functional programming" (2023) - 弄清楚来龙去脉 | 1.3 | 待定 | Streicher |
 | 9-10 | 06/08, 06/15 | Eugenio Moggi (1991), *"Notions of computation and monads"* -  Monad介绍 | 1.4 | 待定 | Moggi |
 | 11-12 | 06/22, 06/29 | Eugenio Moggi (1991), *"Powerdomains"* - 幂domain、自由代数与 Monad 关系 | 1.5 | 待定 | Moggi |
